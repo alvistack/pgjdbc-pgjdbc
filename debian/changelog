@@ -1,5 +1,5 @@
-postgresql-jdbc (100:42.4.0-1) UNRELEASED; urgency=medium
+postgresql-jdbc (100:42.7.3-1) UNRELEASED; urgency=medium
 
-  * https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.4.0
+  * https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.7.3
 
- -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 11 Jul 2022 23:27:26 +0800
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 15 Mar 2024 11:31:23 +0800
