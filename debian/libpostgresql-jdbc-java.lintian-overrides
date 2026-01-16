@@ -1,0 +1,6 @@
+libpostgresql-jdbc-java: copyright-without-copyright-notice
+libpostgresql-jdbc-java: initial-upload-closes-no-bugs
+libpostgresql-jdbc-java: missing-dep-on-jarwrapper
+libpostgresql-jdbc-java: needless-dependency-on-jre
+libpostgresql-jdbc-java: virtual-package-depends-without-real-package-depends Depends: java-runtime
+libpostgresql-jdbc-java: zero-byte-file-in-doc-directory
